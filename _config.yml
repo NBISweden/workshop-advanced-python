@@ -1,0 +1,32 @@
+title: "Quick and clean: advanced Python for data science in biology"
+baseurl: /workshop_adv_python
+
+# where things are
+# where things are
+layouts_dir: ./workshop-common/layouts
+includes_dir: ./workshop-common/includes
+sass:
+  sass_dir: ./workshop-common/sass
+
+plugins:
+  - jemoji
+
+defaults:
+  - values:
+      logosnav: true
+
+menu:
+  - title: Overview
+    url:
+  - title: Schedule
+    url: schedule
+  - title: Syllabus
+    url: syllabus
+  - title: Reading materials
+    url: reading_materials
+  - title: Practical information
+    url: practical
+  - title: Contact
+    url: contact
+
+theme: jekyll-theme-minimal
