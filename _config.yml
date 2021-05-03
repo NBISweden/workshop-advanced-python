@@ -17,11 +17,11 @@ defaults:
 
 menu:
   - title: Overview
-    url: ./Readme.md
+    url: overview
   - title: Schedule
-    url: ./syllabus.ipynb
+    url: syllabus
   - title: Syllabus
-    url: ./syllabus.ipynb
+    url: syllabus
   - title: Reading materials
     url: reading_materials
   - title: Practical information
