@@ -11,7 +11,7 @@ title: Quick and clean: advanced Python for data science in biology
 <br>
 <hr>
 
-<img border="0" src="https://www.svgrepo.com/show/20800/event-date-and-time-symbol.svg" width="20" height="20"> 19 - 23 April 2021
+<img border="0" src="https://www.svgrepo.com/show/20800/event-date-and-time-symbol.svg" width="20" height="20"> 03 - 07 May 2021
 <img border="0" src="https://www.svgrepo.com/show/4199/placeholder-on-a-map.svg" width="20" height="20"> Online
 
 The main aim of this course is to introduce students to the so-called Zen of Python for quick and clean application of python in data science. The workshop is structured around  based on the industry way of classifying big data jobs: data analytics, data science, data engineering.
