@@ -3,10 +3,10 @@ baseurl: /workshop_advanced_python
 
 # where things are
 # where things are
-layouts_dir: ./workshop-common/layouts
-includes_dir: ./workshop-common/includes
+layouts_dir: ./workshop-commons/layouts
+includes_dir: ./workshop-commons/includes
 sass:
-  sass_dir: ./workshop-common/sass
+  sass_dir: ./workshop-commons/sass
 
 plugins:
   - jemoji
@@ -19,7 +19,7 @@ menu:
   - title: Overview
     url: overview
   - title: Schedule
-    url: syllabus
+    url: schedule
   - title: Syllabus
     url: syllabus
   - title: Reading materials
