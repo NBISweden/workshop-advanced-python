@@ -3,8 +3,8 @@ baseurl: /workshop_advanced_python
 
 # where things are
 # where things are
-layouts_dir: ./workshop-commons/layouts
-includes_dir: ./workshop-commons/includes
+layouts_dir: ./workshop-common/layouts
+includes_dir: ./workshop-common/includes
 sass:
   sass_dir: ./workshop-commons/sass
 
