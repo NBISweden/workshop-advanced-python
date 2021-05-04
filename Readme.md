@@ -3,6 +3,9 @@
 
 https://www.scilifelab.se/events/advanced-python-gbgvt17/
 
+# Website
+https://nbisweden.github.io/workshop-advanced-python/
+
 conda create -n py35 python=3.5 anaconda
 [source] activate py35 #only activate on Win
 source deactivate
