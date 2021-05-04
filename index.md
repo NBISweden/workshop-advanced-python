@@ -4,7 +4,7 @@ title: Quick and clean: advanced Python for data science in biology
 ---
 
 #### Quick and clean: advanced Python for data science in biology
-[![DOI](https://zenodo.org/badge/172930292.svg)](https://zenodo.org/badge/latestdoi/172930292) <img border="0" src="https://www.svgrepo.com/show/305241/github.svg" width="20" height="20"> [Github repository](https://github.com/NBISweden/workshop-advanced-python)
+<img border="0" src="https://www.svgrepo.com/show/305241/github.svg" width="20" height="20"> [Github repository](https://github.com/NBISweden/workshop-advanced-python)
 
 
 <br>
